@@ -37,5 +37,5 @@ Build/
 build/
 Builds/
 builds/
-cmake*
+cmake*/
 .idea
